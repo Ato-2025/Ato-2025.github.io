@@ -25,8 +25,8 @@ hobbies:
 gallery:
   - image: /assets/images/crochet.jpg
     caption: Crocheting a scarf!
-  - image: /assets/images/me-basketball.png
-    caption: Hooping and dropping people off at the park 🏀
+  - image: assets/images/momo.jpeg
+    caption: Favourite Food
   - image: /assets/images/me.jpg
     caption: My favorite portrait of myself :)
   - image: /assets/images/me-pi.png
