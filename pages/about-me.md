@@ -15,15 +15,15 @@ about:
 
     When I’m not doing research, I enjoy working on side projects, learning new tech skills, and spending time with friends.
 
-   hobbies:
+hobbies:
     - icon: 🧶
       title: crocheting
       description: I’ve been crocheting since high school and enjoy making small gifts like hats  
-      for friends and family.
+    for friends and family.  
     - icon: 🏓
       title: Ping Pong
       description: I enjoy playing ping pong since I was a kid fun, fast, and helps me stay 
-      active.
+    active.
     - icon: 🕹️
       title: Reading Books
       description: I enjoy reading in my free time—it helps me relax and learn new ideas
