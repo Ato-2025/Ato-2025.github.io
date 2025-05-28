@@ -18,10 +18,12 @@ about:
   hobbies:
     - icon: 🧶
       title: crocheting
-      description: I’ve been crocheting since high school and enjoy making small gifts like hats  for friends and family.
+      description: I’ve been crocheting since high school and enjoy making small gifts like hats  
+      for friends and family.
     - icon: 🏓
       title: Ping Pong
-      description: I enjoy playing ping pong since I was a kid fun, fast, and helps me stay active.
+      description: I enjoy playing ping pong since I was a kid fun, fast, and helps me stay 
+      active.
     - icon: 🕹️
       title: Reading Books
       description: I enjoy reading in my free time—it helps me relax and learn new ideas
