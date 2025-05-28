@@ -23,8 +23,8 @@ hobbies:
     description: I enjoy reading in my free time—it helps me relax and learn new ideas.
 
 gallery:
-  - image: /assets/images/me-guitar.png
-    caption: Playing guitar at the park!
+  - image: /assets/images/crochet.jpg
+    caption: Crocheting a scarf!
   - image: /assets/images/me-basketball.png
     caption: Hooping and dropping people off at the park 🏀
   - image: /assets/images/me.jpg
