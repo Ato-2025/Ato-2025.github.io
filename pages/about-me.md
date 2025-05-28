@@ -15,7 +15,7 @@ about:
 
     When I’m not doing research, I enjoy working on side projects, learning new tech skills, and spending time with friends.
 
-  hobbies:
+   hobbies:
     - icon: 🧶
       title: crocheting
       description: I’ve been crocheting since high school and enjoy making small gifts like hats  
