@@ -7,7 +7,7 @@ about:
     name: Ato Bhatta
     role: Senior, Information Science ans Systems
     image: /assets/images/Ato Bhatta.JPG
-    linkedin: https:"//www.linkedin.com/in/taquavian-johnson/"
+    linkedin: https://www.linkedin.com/in/ato-bhatta-4b8274332/
     bio: |
     I’m currently a senior studying Information Science and Systems at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
 
