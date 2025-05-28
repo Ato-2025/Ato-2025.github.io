@@ -25,10 +25,10 @@ hobbies:
 gallery:
   - image: /assets/images/crochet.jpg
     caption: Crocheting a scarf!
-  - image: assets/images/momo.jpeg
+  - image: /assets/images/momo.jpeg
     caption: Favourite Food
-  - image: /assets/images/me.jpg
-    caption: My favorite portrait of myself :)
+  - image: /assets/images/pool.jpeg
+    caption: My favorite thing to do in free time
   - image: /assets/images/me-pi.png
     caption: Working on a personal project w/ the Raspberry PI
 ---
