@@ -4,28 +4,28 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Ato Bhatta
+  role: Senior, Information Science ans Systems
+  image: /assets/images/Ato Bhatta.JPG
+  linkedin: https: //www.linkedin.com/in/taquavian-johnson/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a senior studying Information Science and Systems at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My research explores the connection between technology and the human mind—how brain-computer interfaces and embedded systems can be used to improve interaction, assistive robotics, and real-time neural signal processing.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not doing research, I enjoy working on side projects, learning new tech skills, and spending time with friends.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
+    - icon: 🧶
+      title: crocheting
+      description: I’ve been crocheting since high school and enjoy making small gifts like hats  for friends and family.
+    - icon: 🏓
+      title: Ping Pong
+      description: I enjoy playing ping pong since I was a kid fun, fast, and helps me stay active.
     - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
-
+      title: Reading Books
+      description: I enjoy reading in my free time—it helps me relax and learn new ideas
+ 
   gallery:
     - image: /assets/images/me-guitar.png
       caption: Playing guitar at the park!
