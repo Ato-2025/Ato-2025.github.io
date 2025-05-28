@@ -8,7 +8,7 @@ about:
     role: Senior, Information Science ans Systems
     image: /assets/images/Ato Bhatta.JPG
     linkedin: "https://www.linkedin.com/in/ato-bhatta-4b8274332/"
-    bio: |
+    bio: >
     I’m currently a senior studying Information Science and Systems at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
 
     My research explores the connection between technology and the human mind—how brain-computer interfaces and embedded systems can be used to improve interaction, assistive robotics, and real-time neural signal processing.
