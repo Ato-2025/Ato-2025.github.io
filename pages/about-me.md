@@ -29,7 +29,7 @@ gallery:
     caption: Favourite Food
   - image: /assets/images/pool.jpeg
     caption: My favorite thing to do in free time
-  - image: /assets/images/me-pi.png
+  - image: assets/images/nature.jpg
     caption: I enjoy spending time in nature—it helps me feel calm and refreshed. 🌿
 ---
 
