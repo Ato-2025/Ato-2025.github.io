@@ -12,5 +12,6 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/ato-bhatta-4b8274332/
-image: IMG_6111.JPG
+image:/assets/images
+
 ---
