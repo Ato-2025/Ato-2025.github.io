@@ -3,9 +3,10 @@ layout: mentor
 title: About My Mentors
 permalink: /about-my-mentor.html
 
-  graduate_mentor:
+graduate_mentor:
   name: Tijesunimi Adeyemi
-  title: Certified Artificial Intelligence Engineer, PhD Student in Computer & Electrical System Engineering  
+  title: "Certified Artificial Intelligence Engineer, PhD Student in Computer & 
+  Electrical System Engineering"
   image: /assets/images/student mentor.jpeg
   website: https://www.linkedin.com/in/adeyemi-tijesunimi/
   bio: |
@@ -17,7 +18,7 @@ permalink: /about-my-mentor.html
 
 faculty_mentor:
   name: Dr. Roshan Paudel
-  title: Professor of Practice, Morgan State University
+  title: "Professor of Practice, Morgan State University"
   image: /assets/images/faculty mentor.jpg
   website: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/ 
   bio: |
