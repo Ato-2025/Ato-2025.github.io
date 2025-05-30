@@ -20,7 +20,7 @@ graduate_mentor:
   name: Dr. Roshan Paudel
   title: Professor of Practice, Morgan State University
   image: /assets/images/faculty mentor.jpg
-  website: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
+  website: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/ 
   bio: |
     Dr. Roshan Paudel has taught computer science for more than ten years and is currently a Professor of Practice at Morgan State University. He has held research positions at Google and George Mason University and is an expert in programming and applied computers.
     
