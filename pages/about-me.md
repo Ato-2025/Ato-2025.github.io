@@ -5,7 +5,7 @@ permalink: /about-me.html
 
 about:
   name: Ato Bhatta
-  role: Senior, Information Science and Systems
+  role: Junior, Information Science and Systems
   image: /assets/images/Ato Bhatta.JPG
   linkedin: "https://www.linkedin.com/in/ato-bhatta-4b8274332/"
   bio: >
