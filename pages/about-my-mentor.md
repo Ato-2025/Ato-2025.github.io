@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Tijesunimi Adeyemi
   title: Certified Artificial Intelligence Engineer, PhD Student in Computer & Electrical System Engineering 
-  image: /assets/images/graduate-student-mentor.jpg
+  image: /assets/images/student mentor.jpeg
   website: https://www.linkedin.com/in/adeyemi-tijesunimi/
   bio: |
     Tijesunimi Adeyemi is a Certified Artificial Intelligence Engineer and a PhD candidate in Morgan State University's Computer and Electrical Systems Engineering program. He provides experience in machine learning, healthcare, and finance, along with a solid background in mathematics, computer science, and applied artificial intelligence. 
