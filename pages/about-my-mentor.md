@@ -4,7 +4,7 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name:Tijesunimi Adeyemi
+  name: Tijesunimi Adeyemi
   title: Certified Artificial Intelligence Engineer, PhD Student in Computer & Electrical System Engineering 
   image: /assets/images/graduate-student-mentor.jpg
   website: https://www.linkedin.com/in/adeyemi-tijesunimi/
