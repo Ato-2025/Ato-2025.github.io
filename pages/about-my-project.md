@@ -24,7 +24,7 @@ approach: |
 
   Open-source tools such as Python, pandas, matplotlib, scikit-learn, Google Colab/Jupyter Notebook will be used.
 
-outcome: |
+outcome: >
   The research will result in a trained machine learning model for brain tumor type prediction 
   at the end of the program, along with a poster presentation that highlights the model 
   architecture, training pipeline, and evaluation metrics. These outcomes will demonstrate 
