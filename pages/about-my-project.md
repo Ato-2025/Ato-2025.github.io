@@ -30,7 +30,7 @@ outcome: >
   architecture, training pipeline, and evaluation metrics. These outcomes will demonstrate 
   how AI can support medical diagnostics and genomic analysis.
 
-final_report_url: : https://bit.ly/submit-projectplan2025 
+final_report_url: https://bit.ly/submit-projectplan2025 
 
 
 grad_mentor:
