@@ -10,7 +10,9 @@ graduate_mentor:
   website: https://www.linkedin.com/in/adeyemi-tijesunimi/
   bio: |
     Tijesunimi Adeyemi is a Certified Artificial Intelligence Engineer and a PhD candidate in Morgan State University's Computer and Electrical Systems Engineering program. He provides experience in machine learning, healthcare, and finance, along with a solid background in mathematics, computer science, and applied artificial intelligence. 
+    
     He graduated from Morgan State with master's degree in advanced computing and Mountain Top University with a bachelor's degree in mathematics and computer science. Tijesunimi has worked at KPMG Nigeria as a financial risk manager anf graduate research assistant.
+   
     He will be our mentor for the duration of this summer's AI facultyresearch program, helping us with machine learning and real-world AI applications.
 
     
