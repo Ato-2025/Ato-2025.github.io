@@ -3,7 +3,7 @@ layout: about
 title: About Me
 permalink: /about-me.html
 
-about:
+about: 
   name: Ato Bhatta
   role: Junior, Information Science and Systems
   image: /assets/images/Ato Bhatta.JPG
