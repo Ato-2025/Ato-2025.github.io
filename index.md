@@ -6,7 +6,7 @@ description: CEAMLS SAIRI Summer 2025 Research Website
 motto: "Build. Learn. Improve."
 
 quick_facts:
-  - "🎓 Senior, Morgan State University"
+  - "🎓 Junior, Morgan State University"
   - "🔬 Research: Application of Artificial Intellegence (AI) to Predict Genetic Bio markers of Brain Tumor from Transcriptomic Data Set"
   - "📍 Based in Baltimore, Maryland"
   - "🚀 Passionate about building smart systems for real-world impact"
