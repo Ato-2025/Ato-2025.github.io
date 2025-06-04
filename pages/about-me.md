@@ -27,8 +27,8 @@ about:
       caption: Crocheting a scraf
     - image: /assets/images/nature.jpg
       caption: Favorite place to be, around the nature
-    - image: /assets/images/my.jpg
-      caption: My favorite portrait of myself :)
+    - image: /assets/images/keema noodle.jpg
+      caption: My favorite food
     - image: /assets/images/my.jpg
       caption: 
 ---
