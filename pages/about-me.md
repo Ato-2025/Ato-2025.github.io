@@ -23,8 +23,8 @@ about:
       description: I enjoy reading in my free time—it helps me relax and learn new ideas.
 
   gallery:
-    - image: /assets/images/MyPainting.jpg
-      caption: Painting of my beta fish
+    - image: /assets/images/crochet.jpg
+      caption: Crocheting a scraf
     - image: /assets/images/Dance.jpg
       caption: Me and my friend dancing at Morgan State University
     - image: /assets/images/my.jpg
