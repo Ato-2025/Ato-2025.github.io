@@ -25,8 +25,8 @@ about:
   gallery:
     - image: /assets/images/crochet.jpg
       caption: Crocheting a scraf
-    - image: /assets/images/Dance.jpg
-      caption: Me and my friend dancing at Morgan State University
+    - image: /assets/images/nature.jpg
+      caption: Favorite place to be, around the nature
     - image: /assets/images/my.jpg
       caption: My favorite portrait of myself :)
     - image: /assets/images/my.jpg
