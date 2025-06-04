@@ -25,9 +25,9 @@ hobbies:
 gallery:
   - image: /assets/images/crochet.jpg
     caption: Crocheting a scarf!
-  - image: /assets/images/momo.jpg
+  - image: /assets/images/momo.jpeg
     caption: Favourite Food
-  - image: /assets/images/pool.jpg
+  - image: /assets/images/pool.jpeg
     caption: My favorite thing to do in free time
   - image: /assets/images/nature.jpg
     caption: I enjoy spending time in nature—it helps me feel calm and refreshed. 🌿
